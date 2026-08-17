@@ -1,0 +1,8 @@
+# Office 임시/잠금 파일
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Windows
+Thumbs.db
+desktop.ini
